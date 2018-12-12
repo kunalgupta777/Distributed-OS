@@ -1,0 +1,10 @@
+List of Programs:
+
+1.) Implement IPC using Pipes
+2.) Implement IPC using FIFO
+3.) Implement IPC using Message Queues
+4.) Implement IPC using Shared Memory 
+5.) Demonstrate the use of Semaphores in IPC
+6.) Implement client server communication using Sockets in Linux (C)
+7.) Implement RPC in C/C++.
+
